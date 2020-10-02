@@ -1,7 +1,7 @@
 ### Hi there, I'm Charlie Migwi -[website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://migwi.iriinc.co.ke)
-[![Twitter Follow](https://twitter.com/itscharlie4real)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://migwi.iriinc.co.ke)
+[![Twitter Follow](https://twitter.com/itscharlie4real) -->
 
 ---
 
