@@ -67,7 +67,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
  <img align="left" alt="CharlieMigwi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=only1Migwi&show_icons=true&hide_border=true" />
 
