@@ -1,4 +1,4 @@
-### Hi there, I'm Charlie Migwi -[website] 👋
+### Hi there, I'm Charlie Migwi
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/itscharlie4real?style=social)
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to chess
+- ⚡ I love to chess
 
 ---
 
@@ -39,7 +39,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />]
-
 <br />
 <br />
 
