@@ -7,9 +7,9 @@
 ## I'm a Developer , Web and Graphics Designer
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ I love to chess
+- ⚡ I love playing chess
 
 ---
 
