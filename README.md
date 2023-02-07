@@ -1,6 +1,6 @@
 ### Hi there, I'm Charlie Migwi
 
-![Twitter Follow](https://img.shields.io/twitter/follow/itscharlie4real?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/only1chvrlie4real?style=social)
 
 ---
 
@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ chess
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -59,6 +59,6 @@
 
 [website]: https://migwi.iriinc.co.ke
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/itscharlie4real
+[twitter]: https://twitter.com/only1chvrlie
 [instagram]: https://instagram.com/only1Migwi
 [linkedin]: https://linkedin.com/in/charliemigwi
